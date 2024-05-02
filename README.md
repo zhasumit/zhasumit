@@ -108,7 +108,6 @@ I'm Sumit Kumar Jha, a undergraduate in CS from MNNIT ALlahabad. I am open to cr
   </a>
 </p>
 <img src="./images/hr.gif" height=2 width=100%>
-<br>
 
 ## <img src="./images/meet.gif" height=30> Let's connect 
 
