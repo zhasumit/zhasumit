@@ -23,7 +23,6 @@ I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to c
 
 </div>
 <img src="./images/hr.gif" height=2 width=100%>
-<br>
 
 ## ⚡Topics I cover
 <p style="display: inline-block;" align="center">
