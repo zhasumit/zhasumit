@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=40&pause=500&color=049EDB&center=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B!++I+am+Sumit+Jha;I'm+a+Full+stack+developer)](https://git.io/typing-svg)
 
-I'm Sumit Kumar Jha, a undergraduate in CS from MNNIT ALlahabad. I am open to create and contribute full-stack projects. I really enjoy building software, creating and contributing to data-science projects and helping others.
+I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to create and contribute full-stack projects. I really enjoy building software, creating and contributing to data-science projects and helping others.
 <br> 
 
 <div>
