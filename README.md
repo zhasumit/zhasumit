@@ -1,33 +1,122 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sumit Jha
-=================================================================================================================================
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=40&pause=500&color=049EDB&center=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B!++I+am+Sumit+Jha;I'm+a+Full+stack+developer)](https://git.io/typing-svg)
 
-Web devloper
-------------
+I'm Sumit Kumar Jha, a undergraduate in CS from MNNIT ALlahabad. I am open to create and contribute full-stack projects. I really enjoy building software, creating and contributing to data-science projects and helping others.
+<br> 
 
-I love code, I have been learning developement and I find solving problems very intriguing !!
+<div>
 
-* 🌍  I'm based in Prayagraj
-* 🖥️  See my portfolio at [zhasumit](http://github.com/zhasumit)
-* ✉️  You can contact me at [sumitzha2057@gmail.com](mailto:sumitzha2057@gmail.com)
-* 🚀  I'm currently working on [react-based : purely frontend projects](http://https://github.com/zhasumit/Front-End-Projects)
-* 🧠  I'm learning React, Typescript, Data structure and Algorithms, SQL
-* 🤝  I'm open to collaborating on Front-end developement Projects
-* ⚡  I love coffee 🍵
+## 📎 About me
+<img align='right' src='./images/hi.gif' width='300'>
 
-### Skills
+-   love coffee
+    <img src="./images/em.gif" width=15>
+-   chronic patient of curiosity
+    <img src="./images/em.gif" width=15>
+-   doing front-end projects currently
+    <img src="./images/em.gif" width=15>
+-   Undergraduate from MNNIT Allahabad
+    <img src="./images/em.gif" width=15>
+-   chain coder for designer interactive websites
+    <img src="./images/em.gif" width=15>
+-   Love building logic and algorithms
+    <img src="./images/em.gif" width=15>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</div>
+<img src="./images/hr.gif" height=2 width=100%>
+<br>
+
+## ⚡Topics I cover
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/C.svg" /> 
+    <img width="30px" src="./icons/Cpp.svg" /> 
+    <img width="30px" src="./icons/TypeScript.svg" /> 
+    <img width="30px" src="./icons/Python-Dark.svg" /> 
+    <img width="30px" src="./icons/Bash-Dark.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/HTML.svg" /> 
+    <img width="30px" src="./icons/CSS.svg" /> 
+    <img width="30px" src="./icons/Sass.svg" /> 
+    <img width="30px" src="./icons/JavaScript.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/NodeJS-Dark.svg" /> 
+    <img width="30px" src="./icons/Npm-Dark.svg" /> 
+    <img width="30px" src="./icons/ExpressJS-Dark.svg" /> 
+    <img width="30px" src="./icons/Postman.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Databases</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/MongoDB.svg" /> 
+    <img width="30px" src="./icons/MySQL-Dark.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/React-Dark.svg" /> 
+    <img width="30px" src="./icons/Redux.svg" /> 
+    <img width="30px" src="./icons/Bootstrap.svg" /> 
+    <img width="30px" src="./icons/TailwindCSS-Dark.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/Windows-Dark.svg" /> 
+    <img width="30px" src="./icons/Ubuntu-Dark.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="./icons/VSCode-Dark.svg" /> 
+    <img width="30px" src="./icons/Figma-Dark.svg" /> 
+    <img width="30px" src="./icons/Git.svg" /> 
+    <img width="30px" src="./icons/Github-Dark.svg" /> 
+    <img width="30px" src="./icons/Docker.svg" /> 
+  </kbd>
 </p>
 
-### Socials
+<img src="./images/hr.gif" height=2 width=100%>
 
-<p align="left"> <a href="https://discord.com/users/sumitzha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/zhasumit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sumit__zha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sumitzha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/zha__sumit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## <img src="./images/activity.gif" height=35> Streaks
+<p  align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhasumit&theme=tokyonight_duo&hide_border=true" alt="zhasumit's readme streaks" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhasumit&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" />
+</p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+![Sumit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhasumit&custom_title=Sumit's%20activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<a href="http://www.github.com/zhasumit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zhasumit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/zhasumit">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhasumit&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+<img src="./images/hr.gif" height=2 width=100%>
+<br>
 
-<a href="https://github.com/zhasumit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhasumit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## <img src="./images/meet.gif" height=30> Let's connect 
+
+<p  align=center>
+<a href="https://www.instagram.com/sumit__zha/"  target="_blank"><img  src='./icons/Instagram.svg'  alt='instagram'  height='40'></a>
+<a  href="https://twitter.com/zha__sumit"  target="_blank"><img  src='./images/Twitter.svg'  alt='twitter'  height='40'></a> 
+<a  href="https://www.facebook.com/profile.php?id=100016599376777&mibextid=ZbWKwL"  target="_blank"><img  src='./images/fb.png'  alt='facebook'  height='40'></a> 
+<a  href="https://www.linkedin.com/in/sumitzha/"  target="_blank"><img  src='./images/linkedin.png'  alt='linkedin'  height='40'></a> 
+<a  href="https://discord.com/users/1175051594723774607"  target="_blank"><img  src='./images/Discord.svg'  alt='discord'  height='40'></a></p>
+
+<br />
