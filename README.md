@@ -31,7 +31,7 @@ I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to c
     <br>
     <br>
     <img width="30px" src="./icons/C.svg" /> 
-    <img width="30px" src="./icons/Cpp.svg" /> 
+    <img width="30px" src="./icons/CPP.svg" /> 
     <img width="30px" src="./icons/TypeScript.svg" /> 
     <img width="30px" src="./icons/Python-Dark.svg" /> 
     <img width="30px" src="./icons/Bash-Dark.svg" /> 
