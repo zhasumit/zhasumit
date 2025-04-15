@@ -1,6 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=40&pause=500&color=049EDB&center=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B!++I+am+Sumit+Jha;I'm+a+Full+stack+developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=30&pause=500&color=95e1ff&center=false&random=false&width=500&height=45&lines=Hi+%F0%9F%91%8B!++I+am+Sumit+Jha;I'm+a+Full+stack+developer)](https://git.io/typing-svg)
 
-I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to create and contribute full-stack projects and core computer related technologies. I really enjoy building software, creating and contributing to data-science projects and helping others.
+I'm Sumit Kumar Jha, an undergraduate in Computer Science from MNNIT Allahabad, currently working at Prismberry in Noida. I'm passionate about building impactful software and love contributing to full-stack projects as well as core computer science technologies. I actively enjoy working on data science initiatives, exploring innovative solutions.
 <br> 
 
 <div>
@@ -8,20 +8,15 @@ I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to c
 ## 📎 About me
 <img align='right' src='./images/hi.gif' width='350'>
 
--   chronic patient of curiosity
-    <img src="./images/em.gif" width=15>
--   Strong hand in C++ fundamentals
-    <img src="./images/em.gif" width=15>
--   Love exploring CS core subjects
-    <img src="./images/em.gif" width=15>
--   Undergraduate from MNNIT Allahabad
-    <img src="./images/em.gif" width=15>
--   doing front-end projects currently
-    <img src="./images/em.gif" width=15>
--   chain coder for designer interactive websites
-    <img src="./images/em.gif" width=15>
--   Love building logic and algorithms
-    <img src="./images/em.gif" width=15>
+- 🤔 Perpetually curious, a lifelong learner and chronic patient of curiosity
+
+- Strong grasp of language fundamentals, data structures, algorithms, and performance-driven code
+
+- building efficient API and solving real issues <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="20" />
+
+- Bug catching for interactive, designer websites, pixel-perfect meets functionality <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="20" />
+
+- 🧠 Logic lover & algorithm enthusiast — solving problems, one idea at a time <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzU1bnczZ2x4eXZ5aHIwN2x1d3pwcjVhZG5oMGRraWF1NnE2cWszdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XGNBGfopIvBosow/giphy.gif" width="20" />
 
 </div>
 <img src="./images/hr-line.gif" height=10 width=100%>
@@ -97,12 +92,10 @@ I'm Sumit Kumar Jha, an undergraduate in CS from MNNIT ALlahabad. I am open to c
 
 ## <img src="./images/activity.gif" height=35> Streaks
 <p  align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhasumit&theme=tokyonight_duo&hide_border=true" alt="zhasumit's readme streaks" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhasumit&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" />
 </p>
 
 
-![Sumit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhasumit&custom_title=Sumit's%20activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
   <a href="https://github.com/zhasumit">
