@@ -1,4 +1,4 @@
-add_newline = false
+add_newline = true
 command_timeout = 1000
 
 format = """
@@ -41,10 +41,10 @@ disabled = true
 ssh_symbol = " "
 
 [directory.substitutions]
-'Documents' = '󰈙'
-'Downloads' = ' '
-'Music' = ' '
-'Pictures' = ' '
+# 'Downloads' = '↓'
+# 'Music'     = '♪'
+# 'Pictures'  = '⧉'
+# '~'         = '⾕' 
 
 [git_branch]
 style = 'bold #ff6dd8'
@@ -52,19 +52,18 @@ symbol = ' '
 format = 'on [$symbol$branch ]($style)'
 
 [git_status]
-style = 'bold fg:#61afef'
-format = '[$all_status$ahead_behind]($style) '
-conflicted = '🏳'
-up_to_date = ''
-untracked = ' '
-ahead = '⇡${count}'
-diverged = '⇕⇡${ahead_count}⇣${behind_count}'
-behind = '⇣${count}'
-stashed = ' '
-modified = '[🖍\($count\)]'
-staged = '[++\($count\)](green)'
-renamed = '🏷 '
-deleted = '✖ '
+format = '[$stashed$modified$deleted$conflicted$staged$renamed$untracked$ahead_behind]($style) '
+style = ''
+stashed = '[≡](bold fg:#8be9fd)'
+modified = '[m${count}](bold fg:#00bfff)'
+deleted = '[✖](bold fg:#ff6e6e)'
+conflicted = '[!](bold fg:#ff5555)'
+staged = '[++(${count})](bold fg:#50fa7b)'
+renamed = '[r](bold fg:#bd93f9)'
+untracked = '[∪](bold fg:#f1fa8c)'
+ahead = '[↑${count}](bold fg:#00ff9f)'
+behind = '[↓${count}](bold fg:#ffb86c)'
+diverged = '[⇅↑${ahead_count}↓${behind_count}](bold fg:#ff79c6)'
 
 [fill]
 symbol = '───'
