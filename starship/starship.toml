@@ -1,4 +1,4 @@
-add_newline = true
+add_newline = false
 command_timeout = 1000
 
 format = """
@@ -27,10 +27,10 @@ $character
 palette = 'catppuccin_mocha'
 
 [directory]
-style = 'bold fg:#b361ff'
+style = 'bold fg:#bd93f9'
 format = '[$path ]($style)'
-truncation_length = 3
-truncation_symbol = '…/'
+truncation_length = 4
+truncation_symbol = '.../'
 truncate_to_repo = false
 
 # Shows the hostname
@@ -40,37 +40,33 @@ format = '[$hostname]( white) '
 disabled = true
 ssh_symbol = " "
 
-[directory.substitutions]
-# 'Downloads' = '↓'
-# 'Music'     = '♪'
-# 'Pictures'  = '⧉'
-# '~'         = '⾕' 
 
 [git_branch]
-style = 'bold #ff6dd8'
+style = 'bold #fda684'
 symbol = ' '
 format = 'on [$symbol$branch ]($style)'
 
 [git_status]
 format = '[$stashed$modified$deleted$conflicted$staged$renamed$untracked$ahead_behind]($style) '
 style = ''
-stashed = '[≡](bold fg:#8be9fd)'
-modified = '[m${count}](bold fg:#00bfff)'
-deleted = '[✖](bold fg:#ff6e6e)'
-conflicted = '[!](bold fg:#ff5555)'
-staged = '[++(${count})](bold fg:#50fa7b)'
-renamed = '[r](bold fg:#bd93f9)'
-untracked = '[∪](bold fg:#f1fa8c)'
-ahead = '[↑${count}](bold fg:#00ff9f)'
-behind = '[↓${count}](bold fg:#ffb86c)'
-diverged = '[⇅↑${ahead_count}↓${behind_count}](bold fg:#ff79c6)'
+stashed = '[≡](bold fg:#8be9fd) '
+modified = '[m${count}](bold fg:#61afef) '
+deleted = '[✖](bold fg:#ff6e6e) '
+conflicted = '[!](bold fg:#ff5555) '
+staged = '[++(${count})](bold fg:#50fa7b) '
+renamed = '[r](bold fg:#bd93f9) '
+untracked = '[∪](bold fg:#f1fa8c) '
+ahead = '[△${count}](bold fg:#00ff9f) '
+behind = '[▽${count}](bold fg:#ffb86c) '
+diverged = '[⇅△${ahead_count}▽${behind_count}](bold fg:#ff79c6) '
 
 [fill]
-symbol = '───'
+# symbol = '───'
+symbol = ' '
 
 [character]
 success_symbol = '[❯](bold green)'
-error_symbol = '[ঌ](bold bright-red)'
+error_symbol = '[ঌ](bold  #ff5e00)'
 
 [time]
 disabled = false
@@ -80,7 +76,7 @@ time_format = '%H:%M'
 
 [python]
 symbol = ""
-format = ' [⌞([$virtualenv](bold italic #2bcec3)⌝) $symbol $version]($style) '
+format = ' [(⌞[$virtualenv](bold italic #2bcec3)⌝) $symbol $version]($style) '
 style = 'bold fg:cyan'
 detect_extensions = ["py"]
 
@@ -174,7 +170,6 @@ yellow = '#e5c07b'
 gray = '#828997'
 white = '#abb2bf'
 black = '#2c323c'
-
 
 [palettes.tokyo_night]
 dark_blue = '#7aa2f7'
