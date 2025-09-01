@@ -27,7 +27,6 @@
 <br>
 
 <img src="./images/hr-line.gif" height=10 width=100%>
-<br>
 
 # <img src="./pics/gifs/commet.png" height="40"> Topics I cover
 <table align="center">
@@ -148,9 +147,8 @@
 # Projects
 
 <br>
-<table align="center">
+<table align="center" width="100%" style="table-layout: fixed;">
 <tr>
-<!-- project 6 -->
 <!-- Project 8 -->
 <td align="center" width="50%">
 <img src="./pics/projectimages/kurakani.png" width="250"/>
@@ -373,7 +371,6 @@
 
 <br>
 <img src="./images/hr-line.gif" height=10 width=100%>
-<br>
 
 # <img src="./pics/gifs/fire.png" width="30"> Let's connect 
 
@@ -470,7 +467,6 @@
 <br>
 <img src="./images/hr-line.gif" height=10 width=100%>
 
-<br>
 
 ## <img src="./pics/gifs/rocket.gif" height='40'> Ready to Collaborate? **Open for**
 
